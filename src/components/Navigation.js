@@ -5,10 +5,10 @@ const Navigation = () => {
     return (
         <div className='navigation'>
             <ul>
-            <NavLink to='/' className={(nav) => (nav.isActive ? "nav-active" : "")}>
+            <NavLink to='/React-Test/home' className={(nav) => (nav.isActive ? "nav-active" : "")}>
                 <li>Accueil</li>
             </NavLink>
-            <NavLink exact to='/about' className={(nav) => (nav.isActive ? "nav-active" : "")}>
+            <NavLink exact to='/React-Test/about' className={(nav) => (nav.isActive ? "nav-active" : "")}>
                 <li>About</li>
             </NavLink>
             </ul>
