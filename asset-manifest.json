@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Test/static/css/main.457ef41b.css",
-    "main.js": "/React-Test/static/js/main.ba06b6b7.js",
-    "static/media/main.jpg": "/React-Test/static/media/main.516fbcd135926107480c.jpg",
-    "static/media/JosefinSans-Medium.ttf": "/React-Test/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
-    "index.html": "/React-Test/index.html",
-    "main.457ef41b.css.map": "/React-Test/static/css/main.457ef41b.css.map",
-    "main.ba06b6b7.js.map": "/React-Test/static/js/main.ba06b6b7.js.map"
+    "main.css": "/React-Test/home/static/css/main.7b5587c2.css",
+    "main.js": "/React-Test/home/static/js/main.8f93f04a.js",
+    "static/media/main.jpg": "/React-Test/home/static/media/main.516fbcd135926107480c.jpg",
+    "static/media/JosefinSans-Medium.ttf": "/React-Test/home/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "index.html": "/React-Test/home/index.html",
+    "main.7b5587c2.css.map": "/React-Test/home/static/css/main.7b5587c2.css.map",
+    "main.8f93f04a.js.map": "/React-Test/home/static/js/main.8f93f04a.js.map"
   },
   "entrypoints": [
-    "static/css/main.457ef41b.css",
-    "static/js/main.ba06b6b7.js"
+    "static/css/main.7b5587c2.css",
+    "static/js/main.8f93f04a.js"
   ]
 }
